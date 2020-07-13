@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="451" started-at="2020-06-24T00:07:47Z" finished-at="2020-06-24T00:07:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="451" started-at="2020-06-24T00:07:47Z" finished-at="2020-06-24T00:07:47Z">
+      <class name="advJavaStream.test1">
+        <test-method status="PASS" signature="regular()[pri:0, instance:advJavaStream.test1@6d8a00e3]" name="regular" duration-ms="21" started-at="2020-06-24T00:07:47Z" finished-at="2020-06-24T00:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regular -->
+        <test-method status="PASS" signature="streamFiles()[pri:0, instance:advJavaStream.test1@6d8a00e3]" name="streamFiles" duration-ms="324" started-at="2020-06-24T00:07:47Z" finished-at="2020-06-24T00:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamFiles -->
+      </class> <!-- advJavaStream.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
